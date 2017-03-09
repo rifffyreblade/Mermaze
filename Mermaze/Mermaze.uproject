@@ -1,6 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.11",
+	"EngineAssociation": "4.15",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "CodeView",
+			"Enabled": true
+		},
+		{
+			"Name": "CodeEditor",
+			"Enabled": true
+		}
+	]
 }
